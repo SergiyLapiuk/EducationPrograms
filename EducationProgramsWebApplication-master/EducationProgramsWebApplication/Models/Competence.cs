@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace EducationProgramsWebApplication.Models //перевірочка ще раз і ще раз
 {
-    public partial class Competence
+    public partial class Competence //перевірочка перевірочки
     {
         public Competence()
         {
