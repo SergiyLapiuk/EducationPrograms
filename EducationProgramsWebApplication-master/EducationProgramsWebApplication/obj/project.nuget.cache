@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pEskVatvAJYSOF9FsnhBX+YS+Ro0jTcyR6Xlmohq+iG5stIjbk+hjLz+t4VEnmShHtFYBZtRxZnTL9jGQb0sHw==",
+  "dgSpecHash": "diDI4TEaubPVeT38T8kCrR84GEMuUPlc8W83TrL6qq9B23yAfsxWAVJkUiCy29JeeNLCxUgh7VbftdlU8OAJtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acer\\Desktop\\University\\EducationProgramsWebApplication\\EducationProgramsWebApplication.csproj",
+  "projectFilePath": "C:\\Users\\acer\\Desktop\\EducationPrograms\\EducationProgramsWebApplication-master\\EducationProgramsWebApplication\\EducationProgramsWebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.11\\microsoft.aspnetcore.mvc.razor.extensions.6.0.11.nupkg.sha512",

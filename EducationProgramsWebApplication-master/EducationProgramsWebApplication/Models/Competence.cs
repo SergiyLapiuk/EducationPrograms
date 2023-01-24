@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace EducationProgramsWebApplication.Models //перевірочка
+namespace EducationProgramsWebApplication.Models //перевірочка ще раз
 {
     public partial class Competence
     {
